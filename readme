@@ -9,7 +9,7 @@ Steps:
 
 Create a virtual environment to avoid any conflicting installations : https://code.visualstudio.com/docs/python/environments
 
-Clone this repository using following command: git clone : https://github.com/ncratleos-it-cio/CodeMerge_DataLineage_ChatBot.git
+
 
 Please use python version 3.12.4
 
